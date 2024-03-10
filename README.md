@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Asuna</h1>
+<h1 align="center">🌟Hi, I'm Asuna 🌟</h1>
 <h3 align="center">𝓐 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓯𝓻𝓸𝓷𝓽𝓮𝓷𝓭 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓯𝓻𝓸𝓶 𝓑𝓻𝓪𝔃𝓲𝓵</h3>
 
 - 🔭 I’m currently working on **Technical Support**
