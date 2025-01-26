@@ -19,7 +19,7 @@
 
 
 - Name: Gabriela
-- Loves: Travel, games, dance and peace 𓆩✧𓆪
+- Loves: travel, games, dance and peace 𓆩✧𓆪
 - I’m currently learning English Language and Spanish - LV -> Fluent
 - Hobby's: Graphic Design, Web Development, Dance, Boxe and Muay Thai ;)!!
 
