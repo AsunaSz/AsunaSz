@@ -1,7 +1,7 @@
 <h1 align="center">🌟Hi, I'm Asuna 🌟</h1>
 <h3 align="center">𝓐 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓯𝓻𝓸𝓷𝓽𝓮𝓷𝓭 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓯𝓻𝓸𝓶 𝓑𝓻𝓪𝔃𝓲𝓵</h3>
 
-- 🔭 I’m currently working on **Technical Support**
+- 🔭 I’m currently working on **Tester SW**
 
 - 📫 How to reach me **www.linkedin.com/in/gabrielarodriguesdias**
 
@@ -20,8 +20,8 @@
 
 - Name: Gabriela
 - Loves: Travel, games, dance and peace 𓆩✧𓆪
-- I’m currently learning English Language - LV -> Fluent
-- Hobby's: Graphic Design, Web Development
+- I’m currently learning English Language and Spanish - LV -> Fluent
+- Hobby's: Graphic Design, Web Development, Dance, Boxe and Muay Thai ;)!!
 
 <!---
 AsunaSz/AsunaSz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
