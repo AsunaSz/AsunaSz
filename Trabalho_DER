@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 OPR/118.0.0.0 (Edition std-1)" version="26.2.14">
   <diagram name="Página-1" id="g2TszKsdWspAbppSmRB5">
-    <mxGraphModel dx="1320" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1983" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pfIXbWBm_4Qy58C_MYQH-2" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="pfIXbWBm_4Qy58C_MYQH-2" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=right;" vertex="1" parent="1">
           <mxGeometry x="40" y="350" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pfIXbWBm_4Qy58C_MYQH-6" value="Comprar produto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -246,7 +246,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pfIXbWBm_4Qy58C_MYQH-23" value="Funcionário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="pfIXbWBm_4Qy58C_MYQH-23" value="Funcionário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="770" y="540" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pfIXbWBm_4Qy58C_MYQH-26" value="&lt;h1&gt;Sistema de vendas de produto&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontFamily=Courier New;gradientColor=#b3b3b3;shadow=1;glass=1;" vertex="1" parent="1">
@@ -281,6 +281,12 @@
         </mxCell>
         <mxCell id="pfIXbWBm_4Qy58C_MYQH-77" value="Disciplina: Programação e Banco de Dados&lt;br&gt;&lt;div&gt;&amp;nbsp;Feito por: Gabriela Rodrigues Dias&lt;div&gt;Data: 28/04/2025&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="500" y="1060" width="320" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="pfIXbWBm_4Qy58C_MYQH-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pfIXbWBm_4Qy58C_MYQH-2" target="pfIXbWBm_4Qy58C_MYQH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pfIXbWBm_4Qy58C_MYQH-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pfIXbWBm_4Qy58C_MYQH-2" target="pfIXbWBm_4Qy58C_MYQH-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
